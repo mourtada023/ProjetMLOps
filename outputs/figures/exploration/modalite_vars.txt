@@ -1,0 +1,129 @@
+============================================================
+Variable : age
+Type : int64
+Nombre de modalités : 74
+Modalités (30 premières) :
+[25 38 28 44 18 34 29 63 24 55 65 36 26 58 48 43 20 37 40 72 45 22 23 54
+ 32 46 56 17 39 52]
+... (tronqué)
+
+============================================================
+Variable : workclass
+Type : object
+Nombre de modalités : 9
+Modalités :
+['Private' 'Local-gov' '?' 'Self-emp-not-inc' 'Federal-gov' 'State-gov'
+ 'Self-emp-inc' 'Without-pay' 'Never-worked']
+
+============================================================
+Variable : fnlwgt
+Type : int64
+Nombre de modalités : 28523
+Modalités (30 premières) :
+[226802  89814 336951 160323 103497 198693 227026 104626 369667 104996
+ 184454 212465  82091 299831 279724 346189 444554 128354  60548  85019
+ 107914 238588 132015 220931 205947 432824 236427 134446  99516 109282]
+... (tronqué)
+
+============================================================
+Variable : education
+Type : object
+Nombre de modalités : 16
+Modalités :
+['11th' 'HS-grad' 'Assoc-acdm' 'Some-college' '10th' 'Prof-school'
+ '7th-8th' 'Bachelors' 'Masters' 'Doctorate' '5th-6th' 'Assoc-voc' '9th'
+ '12th' '1st-4th' 'Preschool']
+
+============================================================
+Variable : educational-num
+Type : int64
+Nombre de modalités : 16
+Modalités :
+[ 7  9 12 10  6 15  4 13 14 16  3 11  5  8  2  1]
+
+============================================================
+Variable : marital-status
+Type : object
+Nombre de modalités : 7
+Modalités :
+['Never-married' 'Married-civ-spouse' 'Widowed' 'Divorced' 'Separated'
+ 'Married-spouse-absent' 'Married-AF-spouse']
+
+============================================================
+Variable : occupation
+Type : object
+Nombre de modalités : 15
+Modalités :
+['Machine-op-inspct' 'Farming-fishing' 'Protective-serv' '?'
+ 'Other-service' 'Prof-specialty' 'Craft-repair' 'Adm-clerical'
+ 'Exec-managerial' 'Tech-support' 'Sales' 'Priv-house-serv'
+ 'Transport-moving' 'Handlers-cleaners' 'Armed-Forces']
+
+============================================================
+Variable : relationship
+Type : object
+Nombre de modalités : 6
+Modalités :
+['Own-child' 'Husband' 'Not-in-family' 'Unmarried' 'Wife' 'Other-relative']
+
+============================================================
+Variable : race
+Type : object
+Nombre de modalités : 5
+Modalités :
+['Black' 'White' 'Asian-Pac-Islander' 'Other' 'Amer-Indian-Eskimo']
+
+============================================================
+Variable : gender
+Type : object
+Nombre de modalités : 2
+Modalités :
+['Male' 'Female']
+
+============================================================
+Variable : capital-gain
+Type : int64
+Nombre de modalités : 123
+Modalités (30 premières) :
+[    0  7688  3103  6418  7298  3908 14084  5178 15024 99999  2597  2907
+  4650  6497  1055  5013 27828  4934  4064  3674  2174 10605  3418   114
+  2580  3411  4508  4386  8614 13550]
+... (tronqué)
+
+============================================================
+Variable : capital-loss
+Type : int64
+Nombre de modalités : 99
+Modalités (30 premières) :
+[   0 1721 1876 2415 1887  625 1977 2057 1429 1590 1485 2051 2377 1672
+ 1628 1902 1602 1741 2444 1408 2001 2042 1740 1825 1848 1719 3004 2179
+ 1573 2205]
+... (tronqué)
+
+============================================================
+Variable : hours-per-week
+Type : int64
+Nombre de modalités : 96
+Modalités (30 premières) :
+[40 50 30 32 10 39 35 48 25 20 45 47  6 43 90 54 60 38 36 18 24 44 56 28
+ 16 41 22 55 14 33]
+... (tronqué)
+
+============================================================
+Variable : native-country
+Type : object
+Nombre de modalités : 42
+Modalités (30 premières) :
+['United-States' '?' 'Peru' 'Guatemala' 'Mexico' 'Dominican-Republic'
+ 'Ireland' 'Germany' 'Philippines' 'Thailand' 'Haiti' 'El-Salvador'
+ 'Puerto-Rico' 'Vietnam' 'South' 'Columbia' 'Japan' 'India' 'Cambodia'
+ 'Poland' 'Laos' 'England' 'Cuba' 'Taiwan' 'Italy' 'Canada' 'Portugal'
+ 'China' 'Nicaragua' 'Honduras']
+... (tronqué)
+
+============================================================
+Variable : income
+Type : object
+Nombre de modalités : 2
+Modalités :
+['<=50K' '>50K']
